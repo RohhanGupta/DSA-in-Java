@@ -13,5 +13,7 @@ public class dowhileloop {
             System.out.println(num);
             num++;
         }while(num<10);
+
+        // Will execute at least once
     }
 }
